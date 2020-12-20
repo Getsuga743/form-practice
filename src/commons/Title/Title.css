@@ -1,0 +1,14 @@
+
+.title-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 2rem;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+.title-container label {
+    margin: auto;
+}

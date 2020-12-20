@@ -1,0 +1,24 @@
+.input-container {
+  width: 100%;
+}
+.regular-style {
+  display: flex;
+  font-family: Poppins-Medium;
+  line-height: 1.5;
+  color: #272727;
+  display: flex;
+  width: auto;
+  background: #f3f3f3;
+  height: 50px;
+  border-radius: 25px;
+  padding: 0 30px 0 68px;
+}
+input {
+  outline: none !important;
+  border: 1px solid;
+  font-size: 1rem;
+  width: 100%;
+}
+input:hover {
+  color: #111111;
+}
